@@ -1,0 +1,22 @@
+{
+  "name": "pixed",
+  "version": "1.0.0",
+  "description": "pixel editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ant1yy/pixed.git"
+  },
+  "author": "Ant1yy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ant1yy/pixed/issues"
+  },
+  "homepage": "https://github.com/Ant1yy/pixed#readme",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
